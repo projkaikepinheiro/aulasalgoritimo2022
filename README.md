@@ -1,0 +1,2 @@
+# aulasalgoritimo2022
+aulasalgoritimo2022
