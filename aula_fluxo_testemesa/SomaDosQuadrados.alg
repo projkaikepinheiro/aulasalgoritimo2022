@@ -1,5 +1,5 @@
 algoritmo "SomaDosQuadrados"
-// Função : Solicita 4 numeros,calcula os quadrados deles e soma todos os números
+// FunÃ§Ã£o : Solicita 4 numeros,calcula os quadrados deles e soma todos os nÃºmeros
 // Autor : Kaike Pinheiro Simplicio
 // Data : 03/05/2022
 var
@@ -8,15 +8,15 @@ num1,num2,num3,num4,resul:real
 inicio
 //Entrada
 escreval("------------------------------------------------")
-escreval("Vamos calcular a soma dos quadrados de 4 números")
+escreval("Vamos calcular a soma dos quadrados de 4 nÃºmeros")
 escreval("------------------------------------------------")
-escreval("Digite o primeiro número")
+escreval("Digite o primeiro nÃºmero")
 leia(num1)
-escreval("Digite o segundo número")
+escreval("Digite o segundo nÃºmero")
 leia(num2)
-escreval("Digite o terceiro número")
+escreval("Digite o terceiro nÃºmero")
 leia(num3)
-escreval("Digite o quarto número")
+escreval("Digite o quarto nÃºmero")
 leia(num4)
 limpatela
 
@@ -25,6 +25,6 @@ resul <- (num1^2+num2^2+num3^2+num4^2)
 
 //Saida
 escreval("-------------------------------------------")
-escreval("O resultado da soma dos quadrados é:", resul)
+escreval("O resultado da soma dos quadrados Ã©:", resul)
 escreval("-------------------------------------------")
 fimalgoritmo
